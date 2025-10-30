@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Perfil Pessoal - Matheus Antonio Fabricio Sousa</title>
+<style>
+    body { font-family: Arial, sans-serif; background-color: #f2f2f2; text-align: center; margin: 40px; }
+    h1 { color: #333; }
+    p { font-size: 18px; }
+    .card { background: white; padding: 30px; margin: auto; width: 50%; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+</style>
+</head>
+<body>
+    <div class="card">
+        <h1>Perfil Pessoal</h1>
+        <p><strong>Nome:</strong> Matheus Antonio Fabricio Sousa</p>
+        <p><strong>Matrícula:</strong> 202503907544</p>
+        <p><strong>Curso:</strong> Desenvolvimento Web em HTML5, CSS, JavaScript e PHP</p>
+        <p><strong>Objetivo Profissional:</strong> Tornar-se desenvolvedor full-stack, criando soluções web modernas e eficientes.</p>
+    </div>
+</body>
+</html>
